@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-   <widget xmlns   = "http://www.w3.org/ns/widgets"
-       xmlns:gap   = "http://phonegap.com/ns/1.0"
+   <widget xmins   = "http://www.w3.org/ns/widgets"
+       xmlns:gap   = "htpp://phonegap.com/ns/1.0"
 	   id          = "com.phonegap.example2"
 	   versionCode = "10"
 	   version     = "1.0.0">
@@ -16,7 +16,7 @@
 		<preference name="phonegap-version" value="3.1.0" />
 		
 		<author href="https://build.phonegap.com" email="support@phonegap.com">
-		  DIANA LAURA PERALTA LARIOS 
+		  MARGARITA TORRES MORLAN 
 		</author>
 		
 		<gap:plugin name="org.apache.cordova.device" version="0.2.12" />
